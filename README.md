@@ -5,4 +5,4 @@
 #### 2.  Coming soon...
 
 
-The articles contains all the information needed to understand the code.
+The articles contain all the information needed to understand the code.
